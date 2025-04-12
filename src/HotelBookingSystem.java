@@ -57,7 +57,7 @@ public class HotelBookingSystem {
     private static void displayMainMenu() {
         System.out.println("\n===== HOTEL BOOKING SYSTEM =====");
         System.out.println("1. View All Rooms");
-        System.out.println("2. View Available Rooms");
+        System.out.println("2. View Available Rooms in Hotel");
         System.out.println("3. Register New Guest");
         System.out.println("4. Create New Booking");
         System.out.println("5. View Booking Details");
